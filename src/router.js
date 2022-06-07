@@ -1,3 +1,4 @@
+import React from "react";
 import Home from "./container/Home/index";
 import Navbar from "./component/Navbar";
 import AutocompleteDropdown from "./component/autocomplete";
