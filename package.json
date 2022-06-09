@@ -2,8 +2,10 @@
   "name": "flexi-table",
   "version": "1.0.0",
   "description": "Editable tables",
-  "main": "src/index.js",
   "private": true,
+  "engines": {
+    "node": "12.x"
+  },
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
